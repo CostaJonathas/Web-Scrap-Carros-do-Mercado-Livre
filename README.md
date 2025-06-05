@@ -29,11 +29,15 @@ Este projeto realiza **web scraping de anúncios de carros usados** no Mercado L
 ## 📂 Estrutura do Projeto
 
 carros_mercado_livre/
-│
+
 ├── scraping_carros.py # Web scraping e criação do DataFrame
+
 ├── identificar_marca.py # Função para identificar a marca e logo
+
 ├── enviar_para_sql.py # Conexão e envio dos dados para o banco SQL Server
+
 ├── carros.csv # Arquivo gerado com todos os dados
+
 └── README.md # Documentação do projeto
 
 
