@@ -46,9 +46,6 @@ carros_mercado_livre/
 - ODBC Driver 17 for SQL Server
 - Pacotes Python:
 
-```bash
-pip install pandas pyodbc requests selenium
-
 🛠️ Como usar
 
 Configure seu SQL Server e crie o banco de dados Carros com a tabela:
@@ -85,3 +82,6 @@ Analise os dados com Power BI, Excel ou Dashboards.
 📈 Objetivo
 
 Criado para praticar Web scrapping de forma mais avançada para ajudar no processo de aprendizado de ETL e visualização de dados, além de servir como base para comparar os preços de carros pelo Power BI calssificando da forma que preferir.
+
+```bash
+pip install pandas pyodbc requests selenium
